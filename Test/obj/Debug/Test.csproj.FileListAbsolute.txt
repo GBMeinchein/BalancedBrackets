@@ -1,0 +1,17 @@
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Test\bin\Debug\Test.dll
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Test\bin\Debug\Test.pdb
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Test\obj\Debug\Test.dll
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Test\obj\Debug\Test.pdb
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Test\bin\Debug\Domain.dll
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Test\bin\Debug\Domain.pdb
+C:\Projetos\BalancedBrackets\Test\bin\Debug\Test.dll
+C:\Projetos\BalancedBrackets\Test\bin\Debug\Test.pdb
+C:\Projetos\BalancedBrackets\Test\bin\Debug\Domain.dll
+C:\Projetos\BalancedBrackets\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projetos\BalancedBrackets\Test\bin\Debug\Domain.pdb
+C:\Projetos\BalancedBrackets\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Projetos\BalancedBrackets\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Projetos\BalancedBrackets\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Projetos\BalancedBrackets\Test\obj\Debug\Test.dll
+C:\Projetos\BalancedBrackets\Test\obj\Debug\Test.pdb

@@ -1,0 +1,11 @@
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Domain\bin\Debug\Domain.dll
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Domain\bin\Debug\Domain.pdb
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Domain\obj\Debug\Domain.dll
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\Domain\obj\Debug\Domain.pdb
+C:\Projetos\BalancedBrackets\Domain\bin\Debug\Domain.dll
+C:\Projetos\BalancedBrackets\Domain\bin\Debug\Domain.pdb
+C:\Projetos\BalancedBrackets\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Projetos\BalancedBrackets\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\BalancedBrackets\Domain\obj\Debug\Domain.dll
+C:\Projetos\BalancedBrackets\Domain\obj\Debug\Domain.pdb

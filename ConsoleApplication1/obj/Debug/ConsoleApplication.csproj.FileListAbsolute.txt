@@ -1,0 +1,18 @@
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\ConsoleApplication1\bin\Debug\Domain.dll
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\ConsoleApplication1\bin\Debug\Domain.pdb
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\gbruno\documents\visual studio 2013\Projects\BalancedBrackets\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Projetos\BalancedBrackets\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Projetos\BalancedBrackets\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Projetos\BalancedBrackets\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Projetos\BalancedBrackets\ConsoleApplication1\bin\Debug\Domain.dll
+C:\Projetos\BalancedBrackets\ConsoleApplication1\bin\Debug\Domain.pdb
+C:\Projetos\BalancedBrackets\ConsoleApplication1\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Projetos\BalancedBrackets\ConsoleApplication1\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Projetos\BalancedBrackets\ConsoleApplication1\obj\Debug\ConsoleApplication.csproj.CopyComplete
+C:\Projetos\BalancedBrackets\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Projetos\BalancedBrackets\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
